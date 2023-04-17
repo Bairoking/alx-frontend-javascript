@@ -1,3 +1,6 @@
+/*
+"Sanna Bah"
+*/
 export default function getSumOfHoods(
   initialNumber,
   expansion1989 = 89,

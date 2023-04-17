@@ -1,3 +1,6 @@
+/*
+"Sanna Bah"
+*/
 export default function createReportObject(employeesList) {
   return {
     allEmployees: {
